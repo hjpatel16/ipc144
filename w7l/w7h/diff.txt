@@ -1,0 +1,10 @@
+
+In line number 69 of your output:
+The output should be:
+Sku         Price       Quantity
+But your output is: 
+Sku         Price       Quanity
+                            ^
+----------------------------|
+Professor's character ASCII code: hex(74), dec(116)
+un-matched character ASCII code: hex(69), dec(105)

@@ -1,0 +1,5 @@
+
+1. Functions are used to break complex and long programs into small modules which can be upgraded with ease and contains readable amount of code and also reusable.
+2. If we need to return more than one value from the function we can use a pointer which changes the formal argument with the address and the function returns nothing.
+3. When a variable is declared within a function is called a local scope. The meaning of that variable ends after we close the end brace of the function.
+When a variable is declared outside all functions definitions has global scope. Any program instruction can access that variable.
