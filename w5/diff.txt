@@ -1,0 +1,10 @@
+
+In line number 55 of your output:
+The output should be:
+2341
+But your output is: 
+
+^
+|
+Professor's character ASCII code: hex(32), dec(50)
+un-matched character ASCII code: hex(d), dec(13)

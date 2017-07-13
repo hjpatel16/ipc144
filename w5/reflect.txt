@@ -1,0 +1,4 @@
+1. A structure type is a collection of not essentially identical types. 
+2. Structure type is used to define a group of variables as a single object. On the other hand, array is used to store ordered elements of common type.
+3. Object.Member .
+
