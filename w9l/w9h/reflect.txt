@@ -1,0 +1,5 @@
+1. When we open a file in "a" mode we can only append the data but if we open in "a+" mode then we can possibly read the data as well as add the data at the end of the file.
+
+2.  The first record in the table was 10 50.34 61.00 30.00 50.50 and the third field is 61.00.
+
+3. When we are using the rand() function to generate random numbers then we need to change the seed value because if the seed value is not changed then the rand() will generate the same numbers. So we used srand() function to change the seed value so that at every execution different number is generated.
