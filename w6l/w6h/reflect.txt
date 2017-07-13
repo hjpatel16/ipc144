@@ -1,0 +1,4 @@
+
+Function is like a module which is used to break complex programs into simple modules. Function can be used to break large and complex programs into simple modules.
+Module is used because it is easy to upgrade and contains readable amount of code. The function balanceUp and balanceDown were called twice which gives us an idea that modules can be used as part of solution to some other problem i.e reusability.
+When you want to send data to another function you have to call that function and pass the values as arguments and that functions follows the code and then returns the value to the function which called it and that is how you send and recieve data from one function to another function. 
