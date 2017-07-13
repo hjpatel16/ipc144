@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+You have $51.66 in your piggy bank!
+But your output is: 
+You have 51.66 in your piggy bank!
+         ^
+---------|
+Professors character ASCII code: hex(24), dec(36)
+un-matched character ASCII code: hex(35), dec(53)
