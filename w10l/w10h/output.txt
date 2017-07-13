@@ -1,0 +1,29 @@
+Script started on Fri 09 Dec 2016 05:51:16 PM EST
+hjpatel16@matrix:~/ipc/w10h> runws
+Password Game
+=============
+Enter your name(up to 8 characters) : THRILLHO
+WELCOME THRILLHO
+Guess the password (up to 8 characters) THRILLHO:elf
+FALSE: Guess the password (up to 8 characters) THRILLH: hobbit
+FALSE: Guess the password (up to 8 characters) THRILL: beets
+FALSE: Guess the password (up to 8 characters) THRIL: bears
+FALSE: Guess the password (up to 8 characters) THRI: battle
+FALSE: Guess the password (up to 8 characters) THR: star
+FALSE: Guess the password (up to 8 characters) TH: galactic
+FALSE: Guess the password (up to 8 characters) T: dog
+Game Over!
+hjpatel16@matrix:~/ipc/w10h> runws
+Password Game
+=============
+Enter your name(up to 8 characters) : THRILLHO
+WELCOME THRILLHO
+Guess the password (up to 8 characters) THRILLHO:password
+FALSE: Guess the password (up to 8 characters) THRILLH: oops
+FALSE: Guess the password (up to 8 characters) THRILL: SGQK^H   HKKGN
+You got it, THRILLHO!!!
+Game Over!
+hjpatel16@matrix:~/ipc/w10h> exit
+exit
+
+Script done on Fri 09 Dec 2016 05:53:35 PM EST

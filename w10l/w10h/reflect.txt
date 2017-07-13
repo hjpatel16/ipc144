@@ -1,0 +1,3 @@
+1. Null characters are at the end of the file and should be included when defining the size.
+
+2. Then the last letter wont appear on the screen and you will display only the characters before the last one. 

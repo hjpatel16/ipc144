@@ -1,0 +1,17 @@
+Script started on Fri 02 Dec 2016 09:29:01 AM EST
+hjpatel16@matrix:~/ipc/w10l> runws
+default name is: default
+Enter a name 100 characters or less: Millhouse
+could not copy name, was too long!!
+input is: Millhouse
+name is: default
+hjpatel16@matrix:~/ipc/w10l> runws
+default name is: default
+Enter a name 100 characters or less: Millhouse  s
+name was successfully changed!
+input is: Millhous
+name is: Millhous
+hjpatel16@matrix:~/ipc/w10l> exit
+exit
+
+Script done on Fri 02 Dec 2016 09:29:33 AM EST
