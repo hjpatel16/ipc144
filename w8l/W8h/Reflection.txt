@@ -1,0 +1,5 @@
+1) Using array of struct variables has significant advantages over two prallel arrays. An array of struct is defined under one name only which is easier to call and group all the data together whereas in two parallel arrays we have two different arrays with different names and it becomes tedius task when we have huge data.
+
+2) When we define function parameter as a pointer we don't create a duplicate variable which saves memory and we can manipulate values from other function where the variable is not defined.
+
+3) If we don't want to allow the function to change the value of the array or variable passing as an argument, we can define them as const which prevents the function from manipulating those values. This is used generally when function pronts data on output screen.

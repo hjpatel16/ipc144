@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+Enter student id and marks (e.g. 12345 89.5): 12345 55.55
+But your output is: 
+Enter student id and marks (e.g. 12345 89.5): 12345 55.5
+                                                        ^
+--------------------------------------------------------|
+Professor's character ASCII code: hex(35), dec(53)
+un-matched character ASCII code: hex(d), dec(13)
