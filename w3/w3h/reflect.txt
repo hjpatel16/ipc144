@@ -1,0 +1,10 @@
+1. There are 3 types of iterations constructs:- 
+	1. do
+	2. do while
+	3. for
+
+2. The iteration "do while" is an exit level loop which is used when user wants to repeat the loop at least one time even if the condition is not met. But in "do" loop, it will only iterate when the condition is met.
+
+3. It is a simple form of  alternative path construct. This expression uses ? : operator to evaluate the conditions.
+	
+	condition ? operand : operand
