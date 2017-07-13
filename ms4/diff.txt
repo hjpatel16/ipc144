@@ -1,0 +1,10 @@
+
+In line number 178 of your output:
+The output should be:
+--== Aborted! ==--
+But your output is: 
+Checking out with low quantity warning; Enter 731 and then 90:
+^
+|
+Professor's character ASCII code: hex(2d), dec(45)
+un-matched character ASCII code: hex(43), dec(67)
