@@ -1,0 +1,1 @@
+Through this workshop, I learned how to cast values between integer and floating point. I have been exposed to do simple calculations using C operators  and expressions and also the scanf function to read a number from the console. This workshop made me best in this portion.
