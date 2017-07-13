@@ -1,0 +1,10 @@
+
+In line number 60 of your output:
+The output should be:
+WARNING: Quantity low, please order ASAP!!!
+But your output is: 
+WARNING: Quantity low, please order ASAP!!!Programs: 
+                                           ^
+-------------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(50), dec(80)
