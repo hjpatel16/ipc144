@@ -1,0 +1,10 @@
+
+In line number 5 of your output:
+The output should be:
+Invalid number, enter a number between 3 and 40 inclusive: 41
+But your output is: 
+Invalid number, enter a number between 3 and 40 inclusive: ^C
+                                                           ^
+-----------------------------------------------------------|
+Professor's character ASCII code: hex(34), dec(52)
+un-matched character ASCII code: hex(5e), dec(94)

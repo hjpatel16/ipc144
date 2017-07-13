@@ -1,0 +1,3 @@
+1. When you divide the program into three parts then you will have an idea how to enter the input, how to validate the user and also print the data according to that. It helps us understand better because we can understand the flow of the program and can figure out if any problem occurs.
+2. When initializing an array, if size of elements is less than the elements in the array then it will generate a syntax error.
+3. Parallel arrays are called parallel because the elements at the same index hold data that are related to the same entity. One array holds the key, while the other hold values. They are used to store tabular information.
